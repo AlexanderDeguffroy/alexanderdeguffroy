@@ -12,4 +12,4 @@ subtitle: the essentials
 E-commerce, data, continuous improvement, automation, SEO, analytics, ...
 
 ## Hobbies
-Playing the trumpet for more than 20 years. Love(d) to play volleybal. Enjoy working in the garden.
+Playing the trumpet for over 20 years. Love(d) to play volleybal. Enjoy working in the garden.
