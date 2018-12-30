@@ -2,7 +2,7 @@
 layout: post
 title: Windows authentication to another domain
 subtitle: How to connect to SQL Servers in another domain using windows authentication.
-tags: [Sql],[Connection]
+tags: [Sql],[Connectivity]
 ---
 
 Sometimes you have the need to connect to a SQL Server (or another resource) in another domain and you have(or want) to use windows authentication. 
