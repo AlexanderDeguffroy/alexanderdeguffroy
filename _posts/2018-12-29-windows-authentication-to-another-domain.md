@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows authentication to another domain | deguffroy.be
+title: Windows authentication to another domain
 subtitle: How to connect to SQL Servers in another domain using windows authentication.
 tags: [Connectivity]
 ---
